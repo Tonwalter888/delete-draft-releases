@@ -29,7 +29,7 @@
     "@actions/core": "^1.2.4",
     "@actions/exec": "^1.0.4",
     "@actions/github": "^6.0.0",
-    "parse-duration": "^2.1.4"
+    "parse-duration": "^2.1.5"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
